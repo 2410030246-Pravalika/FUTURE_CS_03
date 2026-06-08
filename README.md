@@ -1,4 +1,4 @@
-# API Security Risk Analysis: JSONPlaceholder
+# API Security Risk Analysis
 
 ## Overview
 This repository contains a professional API Security Risk Analysis conducted on the [JSONPlaceholder](https://jsonplaceholder.typicode.com) test API. This audit was performed as part of a cybersecurity task to identify common security misconfigurations and data exposure risks in a read-only environment.
